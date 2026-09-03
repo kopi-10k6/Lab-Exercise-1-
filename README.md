@@ -48,7 +48,7 @@ Deals with colors, fonts, icons and layouts    Deals with usability and navigati
 Makes the interface attractive                 Makes the product easy and satisfying to use
 Example: Product card design in Nykaa          Example: Easy product search and checkout
 ```
-# Real-world example:
+## Real-world example:
  In Nykaa, the attractive colors, product images, buttons and layouts represent UI, while search, filters, reviews, recommendations and easy checkout represent UX. Similarly, Purplle uses its visual branding and promotional layouts as UI, while its product discovery and shopping flow contribute to UX.
 
 ## c. Relationship Between UI and UX
