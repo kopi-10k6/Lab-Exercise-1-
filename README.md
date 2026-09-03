@@ -6,7 +6,8 @@
 
 
 ## Aim:
-```To study and compare the UI and UX design of Nykaa and Purplle e-commerce platforms, focusing on navigation, visual design, product discovery, usability, and overall user experience. 
+```
+To study and compare the UI and UX design of Nykaa and Purplle e-commerce platforms, focusing on navigation, visual design, product discovery, usability, and overall user experience.
 ```
 ## Algorithm:
        1.Start
