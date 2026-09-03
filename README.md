@@ -1,8 +1,8 @@
 # Lab-Exercise-1
 
-# Register no : 212225220053
-# Name : KOPIGA N
-
+## Register no : 212225220053
+## Name : KOPIGA N
+## Date : 22.07.2026
 
 
 ## Aim:
